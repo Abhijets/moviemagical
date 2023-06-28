@@ -1,0 +1,4 @@
+baseURL = 'https://www.moviemagical.com/'
+languageCode = 'en-us'
+title = 'Moviemagical'
+theme = 'ananke'
