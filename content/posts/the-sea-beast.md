@@ -2,10 +2,7 @@
 author: "Abhijeet Pratap"
 title: "The Sea Beast"
 date: 2023-06-28T07:20:58+05:30
-draft: true
 ---
-
-
 
 
 
